@@ -1,5 +1,9 @@
 # Gwei.cz Maintenance Project
 
+* [Webová doména `gwei.cz`](#webová-doména-gweicz)
+* [ENS doména `gweicz.eth` ](#ens-doména-gweiczeth)
+* [GitHub organizace `gweicz`](#github-organizace-gweicz)
+
 ## Webová doména `gwei.cz` 
 
 Doména je hostovaná u společnosti [Gransy s.r.o.](https://gransy.com/).

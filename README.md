@@ -7,6 +7,13 @@ Doména je hostovaná u společnosti [Gransy s.r.o.](https://gransy.com/).
 Přístup k ovládání domény má:
 * @tree
 
+Seznam domén:
+
+| Název                    | Projekt                                   | Pozn.
+| ---                      | ---                                       | ---
+| `testnet-dczk.gwei.cz`   | [dCZK](https://github.com/gweicz/dczk)    | -
+| `uniswap-kovan.gwei.cz`  | [dCZK](https://github.com/gweicz/dczk)    | -
+
 ### Pravidla
 1. Každý člen může mít 1 nebo více subdomén.
 1. Žádost se podává vytvořením nové Issue na GitHub ([Odkaz na předvyplněný formulář](https://github.com/gweicz/core/issues/new?title=%C5%BD%C3%A1dost%20o%20novou%20subdom%C3%A9nu%20XXX&body=)), případně přes jiný bezpečný kanál (Keybase?, Signal?).

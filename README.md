@@ -40,6 +40,7 @@ Přístup k ovládání GH organizace má:
 
 ### Pravidla
 1. Projekt může mít 1 nebo více repozitářů (člen mít repozitář nemůže).
-1. Člen má právo na účet v GH organizaci a má přístup ke všem repozitářům.
+1. Člen má automatické právo na účet v GH organizaci a má přístup ke všem repozitářům.
+1. Žádost přidání člena do GH organizace se podává u členů, kteří mají přístup k ovládání.
 1. Každý člen na GH musí mít aktivované 2FA zabezpečení.
 

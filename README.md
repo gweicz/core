@@ -1,4 +1,4 @@
-# Gwei.cz Core Project
+# Gwei.cz Maintenance Project
 
 ## Webová doména `gwei.cz` 
 
